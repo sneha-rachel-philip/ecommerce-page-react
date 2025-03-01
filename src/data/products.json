@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 49.99,
+      "image": "https://picsum.photos/150",
+      "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 99.99,
+      "image": "https://picsum.photos/150",
+      "description": "A stylish smartwatch with fitness tracking features."
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "price": 29.99,
+      "image": "https://picsum.photos/150",
+      "description": "Ergonomic gaming mouse with customizable buttons."
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": 59.99,
+      "image": "https://picsum.photos/150",
+      "description": "Portable Bluetooth speaker with deep bass and clear sound."
+    },
+    {
+      "id": 5,
+      "name": "Laptop Stand",
+      "price": 39.99,
+      "image": "https://picsum.photos/150",
+      "description": "Adjustable laptop stand for better ergonomics."
+    },
+    {
+      "id": 6,
+      "name": "USB-C Charging Cable",
+      "price": 12.99,
+      "image": "https://picsum.photos/150",
+      "description": "Durable USB-C charging cable for fast charging."
+    },
+    {
+      "id": 7,
+      "name": "Smart Light Bulb",
+      "price": 19.99,
+      "image": "https://picsum.photos/150",
+      "description": "Smart light bulb with adjustable brightness and color."
+    },
+    {
+      "id": 8,
+      "name": "Fitness Tracker",
+      "price": 49.99,
+      "image": "https://picsum.photos/150",
+      "description": "Wearable fitness tracker with heart rate monitor."
+    }
+  ]
+  
