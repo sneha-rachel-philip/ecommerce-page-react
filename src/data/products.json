@@ -2,58 +2,58 @@
     {
       "id": 1,
       "name": "Wireless Headphones",
-      "price": 49.99,
-      "image": "https://picsum.photos/150",
+      "price": 99.99,
+      "image": "https://via.placeholder.com/150",
       "description": "High-quality wireless headphones with noise cancellation."
     },
     {
       "id": 2,
-      "name": "Smart Watch",
-      "price": 99.99,
-      "image": "https://picsum.photos/150",
-      "description": "A stylish smartwatch with fitness tracking features."
+      "name": "Smartphone",
+      "price": 699.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Latest model smartphone with cutting-edge features."
     },
     {
       "id": 3,
-      "name": "Gaming Mouse",
-      "price": 29.99,
-      "image": "https://picsum.photos/150",
-      "description": "Ergonomic gaming mouse with customizable buttons."
+      "name": "Smart Watch",
+      "price": 199.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Feature-packed smartwatch for fitness and notifications."
     },
     {
       "id": 4,
-      "name": "Bluetooth Speaker",
-      "price": 59.99,
-      "image": "https://picsum.photos/150",
-      "description": "Portable Bluetooth speaker with deep bass and clear sound."
+      "name": "Gaming Laptop",
+      "price": 1299.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "High-performance gaming laptop with powerful graphics."
     },
     {
       "id": 5,
-      "name": "Laptop Stand",
-      "price": 39.99,
-      "image": "https://picsum.photos/150",
-      "description": "Adjustable laptop stand for better ergonomics."
+      "name": "Bluetooth Speaker",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Portable Bluetooth speaker with deep bass."
     },
     {
       "id": 6,
-      "name": "USB-C Charging Cable",
-      "price": 12.99,
-      "image": "https://picsum.photos/150",
-      "description": "Durable USB-C charging cable for fast charging."
+      "name": "Tablet",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Lightweight tablet with a stunning display."
     },
     {
       "id": 7,
-      "name": "Smart Light Bulb",
-      "price": 19.99,
-      "image": "https://picsum.photos/150",
-      "description": "Smart light bulb with adjustable brightness and color."
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Ergonomic wireless mouse for precision and comfort."
     },
     {
       "id": 8,
-      "name": "Fitness Tracker",
-      "price": 49.99,
-      "image": "https://picsum.photos/150",
-      "description": "Wearable fitness tracker with heart rate monitor."
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "RGB mechanical keyboard with tactile switches."
     }
   ]
   

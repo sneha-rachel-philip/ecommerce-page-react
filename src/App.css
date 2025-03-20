@@ -1,38 +1,107 @@
-.App {
-  text-align: center;
+/* App.css */
+
+/* Container for App component */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+/* Header Styles */
+header {
+  background-color: #343a40;
+  padding: 20px;
   color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
-.App-link {
-  color: #61dafb;
+header .cart-info {
+  font-size: 1.1rem;
+  color: #f8f9fa;
+  display: flex;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+header .cart-info svg {
+  margin-right: 5px;
+}
+
+/* Product Card Styling */
+.card {
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.card-body p {
+  font-size: 0.9rem;
+}
+
+.card-body button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.card-body button:hover {
+  background-color: #0056b3;
+}
+
+/* Cart Styles */
+.cart-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.cart-total {
+  font-size: 1.25rem;
+  font-weight: bold;
+  padding-top: 20px;
+  text-align: right;
+}
+
+/* Input search */
+input[type="text"] {
+  margin-bottom: 20px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .card {
+    margin-bottom: 20px;
   }
-  to {
-    transform: rotate(360deg);
+  header {
+    font-size: 1.2rem;
+    text-align: center;
   }
 }
